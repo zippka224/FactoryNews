@@ -1,6 +1,8 @@
 # FactoryNews
-Aplikacija napravljena kao zadatak za prijavu za praksu u Factory.hr
+Aplikacija napravljena kao zadatak za pokušaj prijave za praksu.
 Korišten je Kotlin za izgradnju ove jednostavne aplikacije.
+
+Newsapi.org je izvor podataka koje aplikacija parsirsa i prikazuje u obliku liste.
 
 ## Screenshots
 
